@@ -2,7 +2,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Cmepax.XRI.ActionInput
+namespace Cmepax.XRTools.ActionInput
 {
   // 挥动探测器
   public class SwingEvaluator
